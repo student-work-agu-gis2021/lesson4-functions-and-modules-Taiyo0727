@@ -65,8 +65,10 @@ temp_data =  [19, 21, 21, 21, 23, 23, 23, 21, 19, 21, 19, 21, 23, 27, 27, 28, 30
 
 
 # YOUR CODE HERE
-import temp_functions.py
+from temp_functions import fahr_to_celsius, temp_classifier
 int temp_classes = []
+for i in temp_data:
+  temp_data[i] = 
 
 # #### Part 2 (continues)
 # 
