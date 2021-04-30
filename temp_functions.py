@@ -1,4 +1,4 @@
- def fahr_to_celsius(temp_fahrenheit):
+def fahr_to_celsius(temp_fahrenheit):
   #We can change from fahrenheit to fahr_to_celsius.
   #temp_fahrenheit : the temparture you want to change.
   converted_temp = (temp_fahrenheit -32) /1.8
