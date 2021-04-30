@@ -45,8 +45,8 @@ print(fahr_to_celsius(71))
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#
-#
+#1. I undestood how to use function.
+#2. We don't need to write same code by useing it.
 #
 #
 
