@@ -25,7 +25,9 @@
 
 
 # YOUR CODE HERE to define temp_classifier
-# 
+#purpose of the function : separate to temperature
+#parameter : temperature of Celsius
+#returned values : x < -2 is 0, -2<=x <2 is 1, 2<= x <15 is 2, and x>=15 is 3
 def temp_classifier(temp_celsius):
   if temp_celsius < -2:
     return 0
